@@ -47,7 +47,7 @@ A document with base knowledge on retinoids, along with insights and opportuniti
 </details>
 
 <p>
-  <a href="https://docuvesta.notion.site/Retinoid-in-Skincare-Analysis-b971020483814374badacd4bba8764a3?pvs=4"><img src="https://img.shields.io/badge/Access-Web%20Page-blue?style=for-the-badge&color=%230097B2"></a>
+  <a href="https://docuvesta.notion.site/Retinoid-in-Skincare-Analysis-b971020483814374badacd4bba8764a3?pvs=4"><img src="https://img.shields.io/badge/Access-Web%20Page-green?style=for-the-badge&color=%2353CF93"></a>
 </p>
 
 
@@ -84,5 +84,5 @@ A user-friendly and interactive dashboard with product information from the skin
     <img src="https://github.com/DOCUVESTA/template/blob/370fe2bfd5e16b653dabfea4e0174b205b8d750a/assets/Dashboard.png" height="680" width="5000"/>
 </details>
 <p>
-  <a href="https://retinoid-skincare-dashboard.streamlit.app"><img src="https://img.shields.io/badge/Access-Dashboard-pink?style=for-the-badge&labelColor=%234D4D4D&color=%23CD6B6B"></a>
+  <a href="https://retinoid-skincare-dashboard.streamlit.app"><img src="https://img.shields.io/badge/Access-Dashboard-green?style=for-the-badge&color=%2306743F"></a>
 </p>
