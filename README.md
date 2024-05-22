@@ -47,6 +47,7 @@ A document with base knowledge on retinoids, along with insights and opportuniti
 </details>
 <details closed>
 <summary>Preview</summary>
+<br>
     <img src="https://github.com/DOCUVESTA/template/blob/4f435f99d110d94b6f99cc4bdcced5c662622ff7/assets/Screenshot%202024-05-21%20at%208.01.44%20PM.png" height="680" width="4400"/>
 </details>
 
@@ -61,6 +62,7 @@ A user-friendly and interactive dashboard with product information from the skin
 </details>
 <details closed>
 <summary>Features</summary>
+<br>
 <ul>
   <li>Filter Selectors:
     <ul>
@@ -86,6 +88,7 @@ A user-friendly and interactive dashboard with product information from the skin
 </details>
 <details closed>
 <summary>Preview</summary>
+<br>
     <img src="https://github.com/DOCUVESTA/template/blob/370fe2bfd5e16b653dabfea4e0174b205b8d750a/assets/Dashboard.png" height="680" width="5000"/>
 </details>
 <p>
