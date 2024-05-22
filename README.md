@@ -17,13 +17,25 @@ As a skincare enthusiast, I wasn't surprised in the recent surge in demand for s
 - Seaborn and plotly vizualisations
 
 ### retinoid in skincare analysis web page
-- Documented analysis on Notion
-<a href="https://docuvesta.notion.site/Retinoid-in-Skincare-Analysis-b971020483814374badacd4bba8764a3?pvs=4" target="_blank">
-  <img src="https://github.com/DOCUVESTA/retinoid-skincare-analysis/blob/a90af3e5993df68173d1bbd3d922215c0e4bca54/assets/button.png" alt="Docuvesta" height="155" width="170" style="border: 10px solid black;">
-</a>
+- Public web page analysis documented on Notion
+</details>
+<details closed>
+<summary>Preview</summary>
+    <img src="https://github.com/DOCUVESTA/template/blob/4f435f99d110d94b6f99cc4bdcced5c662622ff7/assets/Screenshot%202024-05-21%20at%208.01.44%20PM.png" height="30" width="0px"/>
+</details>
+
+<p>
+  <a href="https://docuvesta.notion.site/Retinoid-in-Skincare-Analysis-b971020483814374badacd4bba8764a3?pvs=4"><img src="https://img.shields.io/badge/Access-Web%20Page-pink?style=for-the-badge&labelColor=%234D4D4D&color=%238E74B2"></a>
+</p>
+
 
 ### retinoid products dashboard
 - Retinoid Products Dashboard with product information created on streamlit
-<a href="https://docuvesta.notion.site/Retinoid-in-Skincare-Analysis-b971020483814374badacd4bba8764a3?pvs=4" target="_blank">
-  <img src="https://github.com/DOCUVESTA/retinoid-skincare-analysis/blob/238f69934a577e96e3c81332899b1a149cebd32d/assets/button_1.png" alt="Docuvesta" height="155" width="170" style="border: 10px solid black;">
-</a>
+</details>
+<details closed>
+<summary>Preview</summary>
+    <img src="https://github.com/DOCUVESTA/template/blob/370fe2bfd5e16b653dabfea4e0174b205b8d750a/assets/Dashboard.png" height="30" width="0px"/>
+</details>
+<p>
+  <a href="https://retinoid-skincare-dashboard.streamlit.app"><img src="https://img.shields.io/badge/Access-Dashboard-pink?style=for-the-badge&labelColor=%234D4D4D&color=%23CD6B6B"></a>
+</p>
