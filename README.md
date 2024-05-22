@@ -1,5 +1,5 @@
 <h1 align="center">
-	Retinoid Content in Skincare Dataset
+	Retinoids in Skincare Analysis
 </h1>
 
 <h3 align="center">
