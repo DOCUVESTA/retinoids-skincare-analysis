@@ -11,8 +11,8 @@ st.set_page_config(page_title="Retinoid Product Information",
 
 
 # create dataframe from csv file
-url = 'https://github.com/DOCUVESTA/retinoids-skincare-analysis/blob/a52f2d4af0ab18146cda750f99b78404c8b7b1ec/data/df_retinoid.csv'
-df_retinoid = pd.read_csv(url , on_bad_lines='skip')
+url = 'https://raw.githubusercontent.com/DOCUVESTA/retinoids-skincare-analysis/main/data/df_retinoid.csv'
+df_retinoid = pd.read_csv(url)
 
 
 # sidebar configuration
