@@ -10,6 +10,7 @@
 ## Overview
 As a skincare enthusiast, I wasn't surprised in the recent surge in demand for skincare products with retinoids. Retinoids are vitamin-A derivative compounds that are known to be effective treatments for a wide range of skin problems, including acne. In this repository, I perform an analysis on skincare products that contain different type of retinoids. The objective of this analysis is to provide consumers with a foundation of knowledge on the benefits, side effects and characteristics of various retinoids, allowing the users to select the best option for their individual skincare needs. Additionally, the analysis will examine any market gaps for product types and retinoid ingredients that could be worth exploring for brands that wish to develop retinoid skincare.
 
+<br>
 
 ## Repository Contents
 ### Folder: data
@@ -32,11 +33,14 @@ As a skincare enthusiast, I wasn't surprised in the recent surge in demand for s
     </tr>
 </table>
 
+<br>
 
 ### Jupyter Notebook: retinoids_skincare_data_transformation.ipynb
 - Jupyter notebook with annotations detailing each stage of preprocessing skincare data
 - Data exploration process
 - Matplotlib, Seaborn and Plotly vizualisations
+
+<br>
 
 ### Notion: retinoid in skincare analysis public web page
 A document with base knowledge on retinoids, along with insights and opportunities for product development derived from analysis.
@@ -50,6 +54,7 @@ A document with base knowledge on retinoids, along with insights and opportuniti
   <a href="https://docuvesta.notion.site/Retinoid-in-Skincare-Analysis-b971020483814374badacd4bba8764a3?pvs=4"><img src="https://img.shields.io/badge/Access-Web%20Page-green?style=for-the-badge&color=%2353CF93"></a>
 </p>
 
+<br>
 
 ### Streamlit: app.py
 A user-friendly and interactive dashboard with product information from the skincare dataset.
