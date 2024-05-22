@@ -89,7 +89,10 @@ A user-friendly and interactive dashboard with product information from the skin
 <details closed>
 <summary>Preview</summary>
 <br>
-    <img src="https://github.com/DOCUVESTA/template/blob/370fe2bfd5e16b653dabfea4e0174b205b8d750a/assets/Dashboard.png" height="680" width="5000"/>
+    
+<video width="680" height="4400" controls>
+  <source src="https://github.com/DOCUVESTA/template/blob/35fb916d3de039db9610037031297d0f09b44b45/assets/videos/dashboard-vid.mov" type="video/mp4">
+</video>
 </details>
 <p>
   <a href="https://retinoid-skincare-dashboard.streamlit.app"><img src="https://img.shields.io/badge/Access-Dashboard-green?style=for-the-badge&color=%2306743F"></a>
