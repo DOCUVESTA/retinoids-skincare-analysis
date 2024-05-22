@@ -52,7 +52,7 @@ A document with base knowledge on retinoids, along with insights and opportuniti
 
 
 ### Streamlit: retinoid products dashboard
-A user-friendly and interactive dashboard with product information from the skincare dataset
+A user-friendly and interactive dashboard with product information from the skincare dataset.
 </details>
 <details closed>
 <summary>Features</summary>
