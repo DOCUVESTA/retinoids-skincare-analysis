@@ -38,7 +38,7 @@ As a skincare enthusiast, I wasn't surprised in the recent surge in demand for s
 ### Jupyter Notebook: retinoids_skincare_data_transformation.ipynb
 - Jupyter notebook with annotations detailing each stage of preprocessing skincare data
 - Data exploration process
-- Matplotlib, Seaborn and Plotly vizualisations
+- Matplotlib, Seaborn and Plotly visualizations
 
 <br>
 
