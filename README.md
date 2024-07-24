@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	<img src="https://github.com/DOCUVESTA/template/blob/ec81f8266cc4627918e5e45cb60aae2f88d705d0/assets/Screenshot%202024-05-21%20at%208.45.47%20PM.png"/>
+	<img src="https://github.com/DOCUVESTA/retinoids-skincare-analysis/blob/b8efb6d619d66c985561b37f0d3433b24eaa746a/assets/header_retinoid.png"/>
 </h3>
 
 
@@ -49,7 +49,7 @@ A document with base knowledge on retinoids, along with insights and opportuniti
 <summary>Preview</summary>
 <br>
 	
-![Report](https://github.com/DOCUVESTA/template/blob/4f435f99d110d94b6f99cc4bdcced5c662622ff7/assets/Screenshot%202024-05-21%20at%208.01.44%20PM.png)	
+![Report](https://github.com/DOCUVESTA/retinoids-skincare-analysis/blob/b8efb6d619d66c985561b37f0d3433b24eaa746a/assets/preview_report_retinoid.png)	
 </details>
 
 <p>
@@ -91,7 +91,7 @@ A user-friendly and interactive dashboard with product information from the skin
 <summary>Preview</summary>
 <br>
     
-![Dashboard](https://github.com/DOCUVESTA/template/blob/c82b8886476ebe14199d0d5b180c1dacae34bcc2/assets/Dashboard.png)
+![Dashboard](https://github.com/DOCUVESTA/retinoids-skincare-analysis/blob/b8efb6d619d66c985561b37f0d3433b24eaa746a/assets/Dashboard.png)
 
 </details>
 <p>
