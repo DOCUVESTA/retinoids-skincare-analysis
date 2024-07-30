@@ -1,5 +1,5 @@
 <h1 align="center">
-	Retinoids in Skincare Analysis
+	Type of Retinoids in Skincare Analysis
 </h1>
 
 <h3 align="center">
